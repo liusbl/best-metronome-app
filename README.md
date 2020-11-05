@@ -3,6 +3,8 @@ The Best Metronome App
 
 ### Functionality Ideas
 - Basic beat playing
+- Allow selection from multiple beat sounds
+- Allow creating your own beat sounds
 - Complex beat pattern playing, setting up various beat subdivions. 
     This would require substantial UI/UX work.
 - Fast switching to different tempo - there could be some way where you need a song to switch tempo in the middle, it could provide that capability.
@@ -26,8 +28,8 @@ The Best Metronome App
 - Recording and storing a short preview for a specific BPM.
     This is useful because when you are creating songs, you often forget the name that you gave to them. So a short preview is nice to have.
 - Full user creation, authentication and login flow. The person could still use the app without logging in, but if he logged in then there would be additional features that he could use:
-  - Sharing their BPMs
-  - Searhing importing BPM list of someone else.
+  - Sharing their BPMs, with recording previews.
+  - Searhing importing BPM list of someone else. 
   - Playing the same BPM in synchronization with connected, so that multiple people could hear the same BPM at the same time.
       Would be interesting how to implement this exact synchronization, and how to connect the apps. Bluetooth? Nfc? Wifi?
       Note: Perhaps this does not require authentication? 
