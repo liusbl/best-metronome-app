@@ -38,6 +38,9 @@ The Best Metronome App
   - TODO add more authenticated functionalities. 
 
 ### Analysis of Competing Apps
+- Good comparison of existing apps:
+    https://www.soundbrenner.com/blog/best-metronome-apps-for-android/
+- Do more analysis of competing apps. Look at reviews.
 #### The Metronome by Soundbrenner
  - Small tempo adjustment could be better. Those arrows are really small, not convenient for small adjustments. Reconsider UX.
  - Notification could provide more.
@@ -45,8 +48,7 @@ The Best Metronome App
  
 ### Notes
 - Consider doing it with Flutter? Pros/cons?
-- Good comparison of existing apps:
-    https://www.soundbrenner.com/blog/best-metronome-apps-for-android/
+
 - Libraries that help detect BPM from audio:
   - https://github.com/chrvadala/music-beat-detector
   - https://github.com/cjcliffe/beatdetektor
@@ -56,5 +58,4 @@ The Best Metronome App
   - https://stackoverflow.com/questions/2781897/programmatically-get-bpm-of-a-wave-or-mp3-from-net
 - Look at forums, ask friends, what more features would they need.
 - App should have clean UI/UX
-- Do more analysis of competing apps
 - Could do a cool demonstration for the app
