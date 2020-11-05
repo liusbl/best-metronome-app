@@ -5,7 +5,7 @@ The Best Metronome App
 - Basic beat playing
 - Allow selection from multiple beat sounds
 - Allow creating your own beat sounds
-- Complex beat pattern playing, setting up various beat subdivions. 
+- Complex beat pattern playing, setting up various beat subdivions, accents. 
     This would require substantial UI/UX work.
 - Fast switching to different tempo - there could be some way where you need a song to switch tempo in the middle, it could provide that capability.
 - Widget with simplified metronome
