@@ -21,6 +21,8 @@ The Best Metronome App
 - Display a list of all the BPMs that you stored.
 - Creating sub-sets of BPMs that you created. 
     This would be useful for live performances, where you could take some songs and put them in a list, in the order that you will play them.  
+- Favoriting BPMs. 
+- Search functionality for your created BPMs (sorting by creation date, by usage).
 - Recording and storing a short preview for a specific BPM.
     This is useful because when you are creating songs, you often forget the name that you gave to them. So a short preview is nice to have.
 - Full user creation, authentication and login flow. The person could still use the app without logging in, but if he logged in then there would be additional features that he could use:
