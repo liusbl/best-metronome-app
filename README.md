@@ -48,7 +48,6 @@ The Best Metronome App
  
 ### Notes
 - Consider doing it with Flutter? Pros/cons?
-
 - Libraries that help detect BPM from audio:
   - https://github.com/chrvadala/music-beat-detector
   - https://github.com/cjcliffe/beatdetektor
